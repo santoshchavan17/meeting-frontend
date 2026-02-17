@@ -1,5 +1,5 @@
 import React from 'react';
-import { Typography, Box, Divider } from '@mui/material';
+import { Typography, Box } from '@mui/material';
 // import Preview from "../../assets/preview.png";
 import QR from '../QR';
 import SERVER from '../../config';

@@ -8,9 +8,9 @@ import { v4 } from 'uuid';
 import { Typography } from '@mui/material';
 import JOIN from '../assets/home2.png';
 import JOIN1 from '../assets/home.png';
-import JOIN2 from '../assets/join.png';
+
 import { Box } from '@mui/system';
-import {Divider} from "@mui/material"
+
 const Home = () => {
     const navigate = useNavigate();
 
